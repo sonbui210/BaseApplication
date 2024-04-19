@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "257189856243",
+    "project_id": "base-application-b8f95",
+    "storage_bucket": "base-application-b8f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257189856243:android:d091bc3bc666d7eb768886",
+        "android_client_info": {
+          "package_name": "com.cscmobi.admob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wH0nmmn1NHbI9uULfiBpiiZdzcw_irg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257189856243:android:792c039e72d82113768886",
+        "android_client_info": {
+          "package_name": "com.cscmobi.baseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wH0nmmn1NHbI9uULfiBpiiZdzcw_irg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257189856243:android:043790c6f87d0b3d768886",
+        "android_client_info": {
+          "package_name": "com.sobu.baseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wH0nmmn1NHbI9uULfiBpiiZdzcw_irg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
